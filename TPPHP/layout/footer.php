@@ -1,0 +1,1 @@
+<footer class="blockquote-footer">Leonie Mandah in <cite title="Source Title">la voiture de vos rêves</cite></footer>
