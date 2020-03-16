@@ -37,7 +37,7 @@ require_once 'layout/entete.php';
 
      // la requete mysql
      $q = $conn->query(
-     "SELECT champ1, champ2 FROM votretable
+     "SELECT champ1, champ2 FROM voiture
       WHERE champ1 LIKE '%$recherche%'
       OR champ2 LIKE '%$recherche%'
       LIMIT 10");
